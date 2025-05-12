@@ -19,4 +19,4 @@ def convert(script_path, output_path):
     translator.run()
     
 if __name__ == "__main__":
-    convert("examples/example_function_def.py","output/")
+    convert("examples/example_if.py","output/")
